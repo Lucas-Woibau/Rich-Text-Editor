@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #55a0dd;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sessao{
+    height: 500px;
+    width: 600px;
+}
+
+.col{
+    background-color: #fff;
+    width: 100%;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: #000000 0px 5px 15px;
+}
+
+.caixa{
+    display: inline-block !important;
+    padding: 0 5px;
+}
+
+.primeira{
+    border-right: 2px solid #40576d33;
+}
+
+input[type=number]{
+    outline: none;
+    border: none;
+    width: 50px;
+    color: #131c35;
+    font-size: 24px;
+    padding: 10px 0px;
+    margin-left: 10px;
+}
+
+.segunda{
+    border-right: 2px solid #40576d33;
+}
+
+button{
+    border: none;
+    color: #131c35;
+    font-size: 20px;
+    font-weight: 300;
+    background: transparent;
+    padding: 10px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    user-select: none;
+}
+
+button:hover{
+    background: #40576d1a;
+}
+
+button.active{
+    background: #73b1e333;
+    color: #5271ff;
+}
+
+.terceira{
+    border-right: 2px solid #40576d33;
+}
+
+.terceira button:focus{
+    background-color: #73b1e333;
+    color: #5271ff;
+}
+
+input[type=color]{
+    width: 35px;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+textarea{
+    width: 100%;
+    height: 350px;
+    padding: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    resize: vertical;
+}
