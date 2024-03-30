@@ -1,10 +1,14 @@
-## Editor Rich Text
-Pequeno editor básico de rich text
+# Sobre
+https://rich-text-editor-tawny.vercel.app/
 
-## Ferramentas Utilizadas:
+Editor rich text simples
 
-### HTML5 | CSS3 | JAVASCRIPT
+# Layout web
+![web 1](https://github.com/Lucas-Woibau/Rich-Text-Editor/blob/main/public/Visual.png?raw=true)
 
-## Página Inicial:
+# Tecnologias utilizadas:
+- Html5 
+- Css3 
+- JavaScript
 
-<img src="https://github.com/Lucas-Woibau/Rich-Text-Editor/blob/main/public/Visual.png?raw=true">
+
